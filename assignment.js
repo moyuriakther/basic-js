@@ -1,4 +1,3 @@
-
 // https://github.com/moyuriakther/basic-js
 //kilometer To Meter
 function kilometerToMeter(kilometer) {
@@ -73,15 +72,3 @@ function megaFriend(array) {
     return maxString;
 }
     console.log(megaFriend(['a', 'aa', 'aaa', 'aaaaa', 'aaaa', 'aaaaaaa']));  
-
-
-
-
-
-
-
-
-
-
-
-
